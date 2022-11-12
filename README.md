@@ -1,1 +1,3 @@
 # discordbot
+
+Just for fun
